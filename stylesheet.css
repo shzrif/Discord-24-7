@@ -1,0 +1,65 @@
+body {
+    font-family: "SansSerif";
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    background-color: aquamarine;
+    height: 90px;
+}
+
+.header-logo {
+    font-size: 40px;
+    float: left;
+    padding: 20px 40px;
+}
+
+.header-list li {
+    font-family: "SansSerif";
+    float: left;
+    padding: 33px 20px;
+}
+
+.main {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.copy-container h1 {
+    font-size: 140px;
+}
+
+.copy-container h2 {
+    font-size: 60px;
+}
+
+span {
+    color: grey;
+}
+
+.footer {
+    background-color: #2f5167;
+    height: 270px;
+    color: #fff;
+    height: 120px;
+    padding: 40px 40px 40px 40px;
+}
+
+.footer-logo {
+    font-size: 32px;
+    float: left;
+}
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li {
+    padding: 20px 20px;
+    float: right;
+}
